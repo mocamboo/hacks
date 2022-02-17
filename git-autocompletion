@@ -1,0 +1,7 @@
+
+/*run*/
+namo .bash_profile
+and paste
+if [ -f ~/.bash-completion/bash_completion ]; then
+    source ~/.bash_completion
+fi
